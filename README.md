@@ -35,13 +35,13 @@ Enter `sudo apt-get update && apt-get dist-upgrade`
 
 ![alt text](22.jpg)
 
-`wget https://git.io/vpnsetup -O vpnsetup.sh && sudo \
+`wget https://git.io/vpnsetup -O vpnsetup.sh && sudo \`
 
-VPN_IPSEC_PSK='IPSEC_PSK' \
+`VPN_IPSEC_PSK='IPSEC_PSK' \`
 
-VPN_USER='UserName' \
+`VPN_USER='UserName' \`
 
-VPN_PASSWORD='Password' sh vpnsetup.sh`
+`VPN_PASSWORD='Password' sh vpnsetup.sh`
 
 
 Loading.....
