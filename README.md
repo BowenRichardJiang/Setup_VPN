@@ -1,8 +1,13 @@
 # Setup_VPN
+
 A guide to create VPN by using Google Cloud
+
 First, you need your **Google account**
+
 Second, search **Google Cloud** and login
+
 Third, start a project and **here we go!**
+
 
 ![alt text](1.png)
 ![alt text](2.png)
@@ -31,10 +36,15 @@ Enter `sudo apt-get update && apt-get dist-upgrade`
 ![alt text](22.jpg)
 
 `wget https://git.io/vpnsetup -O vpnsetup.sh && sudo \
+
 VPN_IPSEC_PSK='IPSEC_PSK' \
+
 VPN_USER='UserName' \
+
 VPN_PASSWORD='Password' sh vpnsetup.sh`
 
+
 Loading.....
+
 
 You are all set!
